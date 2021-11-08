@@ -1,0 +1,24 @@
+
+img{
+	border: 2px solid orangered;
+}
+p {
+fontfamily:"georgia",serif;
+fontsize: 16px;
+color:#111
+}
+
+.pull-quote {
+color: #007A36;
+margin-left: 10px;
+border: 2px dashed orangered;
+textalign:center;
+font-style:italic;
+fontsize:20px;
+}
+
+#byline {
+color: #282828;
+font-style:italic;
+}
+
